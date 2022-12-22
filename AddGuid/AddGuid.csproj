@@ -84,6 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="build-14352.ico" />
+    <Content Include="build-14352.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
